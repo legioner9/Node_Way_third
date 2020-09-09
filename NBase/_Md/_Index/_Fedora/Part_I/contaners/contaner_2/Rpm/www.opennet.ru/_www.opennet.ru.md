@@ -1,0 +1,1 @@
+[Установка программных пакетов в Linux для начинающих (linux install rpm)](https://www.opennet.ru/base/sys/soft_inst.txt.html)

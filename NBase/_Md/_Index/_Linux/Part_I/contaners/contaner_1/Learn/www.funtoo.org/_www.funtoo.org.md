@@ -1,0 +1,1 @@
+https://www.funtoo.org/Linux_Fundamentals,_Part_1

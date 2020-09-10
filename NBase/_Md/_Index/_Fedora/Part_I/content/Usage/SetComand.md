@@ -44,6 +44,7 @@ https://tproger.ru/translations/bash-cheatsheet/
 
     tar: создание архивов и работа с ними.
 #ls
+
     $ ls
     myip.sh  ucr-cs100  we_msk.sh
     $ ls -a
